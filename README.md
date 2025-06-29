@@ -6,4 +6,4 @@
   <li>Bed Availibilty Tracker</li>
   <li>Online Patient Admission</li>
 </ul>
-<h2><b>Live projecct link:</b>https://hospilink.netlify.app/</h2>
+<h2><b>Live project link:</b>https://hospilink.netlify.app/</h2>
